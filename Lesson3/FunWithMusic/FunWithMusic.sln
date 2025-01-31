@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithMusic", "FunWithMusic.csproj", "{3F71E77E-16A7-6235-1284-86D33DF43527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicArray", "..\MusicArray\MusicArray.csproj", "{27A72D0F-0F69-432A-843F-E70BFA542326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F71E77E-16A7-6235-1284-86D33DF43527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F71E77E-16A7-6235-1284-86D33DF43527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F71E77E-16A7-6235-1284-86D33DF43527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F71E77E-16A7-6235-1284-86D33DF43527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A72D0F-0F69-432A-843F-E70BFA542326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A72D0F-0F69-432A-843F-E70BFA542326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A72D0F-0F69-432A-843F-E70BFA542326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A72D0F-0F69-432A-843F-E70BFA542326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECE9762B-4C05-4E9E-9292-0E20BB260BC0}
+	EndGlobalSection
+EndGlobal
