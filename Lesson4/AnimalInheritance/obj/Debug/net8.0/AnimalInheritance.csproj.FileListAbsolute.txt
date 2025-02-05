@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/bin/Debug/net8.0/AnimalInheritance.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/refint/AnimalInheritance.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/AnimalInheritance.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/AnimalInheritance/obj/Debug/net8.0/ref/AnimalInheritance.dll

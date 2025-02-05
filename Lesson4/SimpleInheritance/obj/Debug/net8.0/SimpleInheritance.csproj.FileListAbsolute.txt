@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/bin/Debug/net8.0/SimpleInheritance
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/bin/Debug/net8.0/SimpleInheritance.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/bin/Debug/net8.0/SimpleInheritance.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/bin/Debug/net8.0/SimpleInheritance.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/bin/Debug/net8.0/SimpleInheritance.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/SimpleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/SimpleInheritance.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/SimpleInheritance.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/SimpleInheritance.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/SimpleInheritance.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/SimpleInheritance.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/refint/SimpleInheritance.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/SimpleInheritance.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/SimpleInheritance.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/SimpleInheritance/obj/Debug/net8.0/ref/SimpleInheritance.dll

@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/bin/Debug/net8.0/PrivateMultipleObjects.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/refint/PrivateMultipleObjects.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/PrivateMultipleObjects.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson4/PrivateMultipleObjects/obj/Debug/net8.0/ref/PrivateMultipleObjects.dll
