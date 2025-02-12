@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/bin/Debug/net8.0/AbstractAnimalClass.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/refint/AbstractAnimalClass.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/AbstractAnimalClass.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/AbstractAnimalClass/obj/Debug/net8.0/ref/AbstractAnimalClass.dll

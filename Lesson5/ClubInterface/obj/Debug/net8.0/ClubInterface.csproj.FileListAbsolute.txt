@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/bin/Debug/net8.0/ClubInterface
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/bin/Debug/net8.0/ClubInterface.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/bin/Debug/net8.0/ClubInterface.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/bin/Debug/net8.0/ClubInterface.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/bin/Debug/net8.0/ClubInterface.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ClubInterface.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ClubInterface.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ClubInterface.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ClubInterface.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ClubInterface.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/refint/ClubInterface.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ClubInterface.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ClubInterface.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ClubInterface/obj/Debug/net8.0/ref/ClubInterface.dll

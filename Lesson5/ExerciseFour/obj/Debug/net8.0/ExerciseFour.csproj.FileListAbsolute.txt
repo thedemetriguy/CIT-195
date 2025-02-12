@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ExerciseFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ExerciseFour.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ExerciseFour.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ExerciseFour.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ExerciseFour.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/bin/Debug/net8.0/ExerciseFour
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/bin/Debug/net8.0/ExerciseFour.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/bin/Debug/net8.0/ExerciseFour.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/bin/Debug/net8.0/ExerciseFour.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/bin/Debug/net8.0/ExerciseFour.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ExerciseFour.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/refint/ExerciseFour.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ExerciseFour.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ExerciseFour.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson5/ExerciseFour/obj/Debug/net8.0/ref/ExerciseFour.dll
