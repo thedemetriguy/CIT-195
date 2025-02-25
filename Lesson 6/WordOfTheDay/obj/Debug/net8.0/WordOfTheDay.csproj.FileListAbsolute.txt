@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/bin/Debug/net8.0/WordOfTheDay.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/refint/WordOfTheDay.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/WordOfTheDay.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/WordOfTheDay/obj/Debug/net8.0/ref/WordOfTheDay.dll

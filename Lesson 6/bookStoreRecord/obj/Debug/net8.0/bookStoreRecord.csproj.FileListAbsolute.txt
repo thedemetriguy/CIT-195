@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/bin/Debug/net8.0/bookStoreRecord.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/refint/bookStoreRecord.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/bookStoreRecord.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/bookStoreRecord/obj/Debug/net8.0/ref/bookStoreRecord.dll

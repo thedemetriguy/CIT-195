@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/bin/Debug/net8.0/clubMemberIndexer.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/refint/clubMemberIndexer.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/clubMemberIndexer.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/clubMemberIndexer/obj/Debug/net8.0/ref/clubMemberIndexer.dll

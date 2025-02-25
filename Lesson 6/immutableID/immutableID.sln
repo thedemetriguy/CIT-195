@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "immutableID", "immutableID.csproj", "{7DE63252-E555-C8D7-0C2D-DB8C5C63757C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clubMemberIndexer", "..\clubMemberIndexer\clubMemberIndexer.csproj", "{4E054449-6EBE-4CC4-A14E-52433ED85F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE63252-E555-C8D7-0C2D-DB8C5C63757C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE63252-E555-C8D7-0C2D-DB8C5C63757C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE63252-E555-C8D7-0C2D-DB8C5C63757C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE63252-E555-C8D7-0C2D-DB8C5C63757C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E054449-6EBE-4CC4-A14E-52433ED85F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E054449-6EBE-4CC4-A14E-52433ED85F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E054449-6EBE-4CC4-A14E-52433ED85F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E054449-6EBE-4CC4-A14E-52433ED85F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {968D41F0-18BA-4F79-B361-7B8E0CB46345}
+	EndGlobalSection
+EndGlobal

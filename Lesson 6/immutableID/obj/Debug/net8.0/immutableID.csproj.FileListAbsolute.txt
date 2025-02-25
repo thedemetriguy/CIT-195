@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/immutableID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/immutableID.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/immutableID.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/immutableID.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/immutableID.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/bin/Debug/net8.0/immutableID
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/bin/Debug/net8.0/immutableID.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/bin/Debug/net8.0/immutableID.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/bin/Debug/net8.0/immutableID.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/bin/Debug/net8.0/immutableID.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/immutableID.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/refint/immutableID.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/immutableID.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/immutableID.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195/Lesson 6/immutableID/obj/Debug/net8.0/ref/immutableID.dll
