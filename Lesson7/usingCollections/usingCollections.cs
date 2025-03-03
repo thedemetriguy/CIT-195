@@ -5,6 +5,36 @@ namespace Chapter7Ex1MultipleCollections
 {
     class Program
     {
+         static void Main()
+        {
+            // Call the methods to test them
+            Console.WriteLine("Which collection would you like to test?");
+            Console.WriteLine("1 - Queue\n2 - Stack\n3 - LinkedList\n4 - Dictionary\n5 - HashSet");
+            Console.Write("Enter your choice: ");
+            string choice = Console.ReadLine();
+
+            switch (choice)
+            {
+                case "1":
+                    UseQueue();
+                    break;
+                case "2":
+                    UseStack();
+                    break;
+                case "3":
+                    UseLinkedList();
+                    break;
+                case "4":
+                    UseDictionary();
+                    break;
+                case "5":
+                    UseHashSet();
+                    break;
+                default:
+                    Console.WriteLine("Invalid choice. Please restart the program.");
+                    break;
+            }
+        }
         static void UseQueue()
         {
             // Creates the members queue
@@ -39,7 +69,7 @@ namespace Chapter7Ex1MultipleCollections
             }
 
             // counts the members in the queue
-            Console.WriteLine($"Here are your {members.Count()} members");
+            Console.WriteLine($"Here are your {members.Count} members");
             // displays the queue contents without removing anything
             foreach (var m in members)
             {
@@ -103,7 +133,7 @@ namespace Chapter7Ex1MultipleCollections
                 answer = Console.ReadLine();
             }
             // counts the members in the Stack
-            Console.WriteLine($"Here are your {members.Count()} members");
+            Console.WriteLine($"Here are your {members.Count} members");
             // displays the Stack contents without removing anything
             foreach (var m in members)
             {
@@ -126,7 +156,7 @@ namespace Chapter7Ex1MultipleCollections
                 Console.WriteLine($"You have {members.Count} left in the Stack");
 
         }
-        static void UseLinkdedList()
+        static void UseLinkedList()
         {
             // Create the friendList
             LinkedList < string > friendList = new LinkedList < string >();

@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/usingCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/usingCollections.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/usingCollections.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/usingCollections.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/usingCollections.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/bin/Debug/net8.0/usingCollections
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/bin/Debug/net8.0/usingCollections.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/bin/Debug/net8.0/usingCollections.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/bin/Debug/net8.0/usingCollections.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/bin/Debug/net8.0/usingCollections.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/usingCollections.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/refint/usingCollections.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/usingCollections.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/usingCollections.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/usingCollections/obj/Debug/net8.0/ref/usingCollections.dll
