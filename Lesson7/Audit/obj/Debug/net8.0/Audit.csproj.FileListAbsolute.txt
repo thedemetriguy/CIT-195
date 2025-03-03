@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/bin/Debug/net8.0/Audit
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/bin/Debug/net8.0/Audit.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/bin/Debug/net8.0/Audit.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/bin/Debug/net8.0/Audit.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/bin/Debug/net8.0/Audit.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/Audit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/Audit.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/Audit.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/Audit.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/Audit.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/Audit.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/refint/Audit.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/Audit.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/Audit.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson7/Audit/obj/Debug/net8.0/ref/Audit.dll
