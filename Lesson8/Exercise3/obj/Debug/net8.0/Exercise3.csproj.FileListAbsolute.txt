@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/bin/Debug/net8.0/Exercise3
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/bin/Debug/net8.0/Exercise3.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/bin/Debug/net8.0/Exercise3.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/bin/Debug/net8.0/Exercise3.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/bin/Debug/net8.0/Exercise3.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/Exercise3.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/Exercise3.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/Exercise3.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/refint/Exercise3.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/Exercise3.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/Exercise3.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/Exercise3/obj/Debug/net8.0/ref/Exercise3.dll

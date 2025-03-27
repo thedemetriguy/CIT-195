@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/bin/Debug/net8.0/TryLearnDo
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/bin/Debug/net8.0/TryLearnDo.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/bin/Debug/net8.0/TryLearnDo.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/bin/Debug/net8.0/TryLearnDo.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/bin/Debug/net8.0/TryLearnDo.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/TryLearnDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/TryLearnDo.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/TryLearnDo.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/TryLearnDo.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/TryLearnDo.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/TryLearnDo.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/refint/TryLearnDo.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/TryLearnDo.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/TryLearnDo.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson8/TryLearnDo/obj/Debug/net8.0/ref/TryLearnDo.dll
