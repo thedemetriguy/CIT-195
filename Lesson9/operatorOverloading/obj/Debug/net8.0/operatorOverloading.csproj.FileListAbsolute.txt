@@ -1,0 +1,15 @@
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/bin/Debug/net8.0/operatorOverloading
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/bin/Debug/net8.0/operatorOverloading.deps.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/bin/Debug/net8.0/operatorOverloading.runtimeconfig.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/bin/Debug/net8.0/operatorOverloading.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/bin/Debug/net8.0/operatorOverloading.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/operatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/operatorOverloading.AssemblyInfoInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/operatorOverloading.AssemblyInfo.cs
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/operatorOverloading.csproj.CoreCompileInputs.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/operatorOverloading.sourcelink.json
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/operatorOverloading.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/refint/operatorOverloading.dll
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/operatorOverloading.pdb
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/operatorOverloading.genruntimeconfig.cache
+/Users/dmitrynovikov/Documents/Northwestern Michigan College/Spring 2025 Semester/Classes/CIT195 Application Development/Lesson9/operatorOverloading/obj/Debug/net8.0/ref/operatorOverloading.dll
